@@ -1,5 +1,3 @@
-require_relative '../lib/concerns/memorable'
-
 require 'pry'
 
 class Song
